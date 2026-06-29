@@ -56,6 +56,8 @@ AutoVidDub支持分角色配音的全自动视频翻译配音加字幕工具
 
 既支持单个视频文件，也支持文件夹批量处理。
 
+视频演示：https://www.youtube.com/watch?v=JIzNumFrmt4
+
 ### 注意事项
 
 ⚠️ 硬件要求
